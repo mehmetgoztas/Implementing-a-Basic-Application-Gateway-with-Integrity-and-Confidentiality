@@ -1,0 +1,2 @@
+# Implementing-a-Basic-Application-Gateway-with-Integrity-and-Confidentiality
+Secure file transfer system implemented using a proxy server. The system  enables clients to securely transfer files from a file server through the proxy  server, ensuring confidentiality, integrity, and authenticity of the transferred  files. This project covers the design, implementation details, and usage  of the proxy server.
